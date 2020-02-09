@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-heroku-screenshot-service",
+  "name": "oncode",
   "version": "1.0.0",
   "description": "",
   "main": "worker.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service.git"
+    "url": "git+https://github.com/heroku-screenshot-service.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service/issues"
+    "url": "https://github.com/fhot-service/issues"
   },
-  "homepage": "https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service#readme",
+  "homepage": "https://github.com/frvice#readme",
   "dependencies": {
     "express": "^4.17.1",
     "puppeteer": "^2.0.0"
