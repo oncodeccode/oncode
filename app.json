@@ -3,6 +3,7 @@
     "description": "Oncode on Heroku",
     "repository": "https://github.com",
     "keywords": ["node", "oncode", "puppeteer"],
+    "type": "worker",
     "buildpacks": [
         {
           "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/jontewks/puppeteer.tgz"
